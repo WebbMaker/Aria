@@ -1,0 +1,8 @@
+{
+  "name": "Aria Headphones Landing Page",
+  "description": "A glassmorphism-styled premium landing page for Aria headphones, featuring scroll animations and responsive design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
